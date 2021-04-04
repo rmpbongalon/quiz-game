@@ -1,0 +1,17 @@
+                                _
+                           /M_, M\__,_
+                         _/MMMMMMMMMMMM
+                        _YMMMMMMMMMMMM
+                       `MMMMMM /      \  Welcome to the Harry Potter Trivia Challenge!    
+                        MMM   _/    __/  You can choose from three categories(Easy, Medium, Hard).
+                        YMM _/  \__/  \  After choosing a category, you will answer ten questions.
+                        (.   \__/  \__/  In answering, just type your answer.
+                          \       _,  |  Pointers when answering a question.
+                     _____/\     _   /     >When the question is asking for a name always give the fullname.
+                         \  `._____,'      >When the question is asking for a number always answer in Hindu-Arabic or in digits.
+                          `..___(__      During the game you have three lives, if your answer is wrong, your life will be deducted by one.
+                                   ``-.  The game will automatically end if there is no lives left.
+                                       \ 
+                                        )* If you want to go to the main menu,type 'menu'.
+                                         * If you want to end the game and you're not in the main menu, type'quit'.
+
